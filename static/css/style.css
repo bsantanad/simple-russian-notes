@@ -176,3 +176,9 @@ mark {
 .headerlink:hover {
     color: #912418;
 }
+
+.info {
+    padding: 1em;
+    background-color: #eee;
+    border-radius: 0.3em;
+}
