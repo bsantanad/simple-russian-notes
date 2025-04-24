@@ -187,6 +187,7 @@ h3,
 h4 {
     font-family: "Averia Serif Libre", "Roboto Slab", cursive; /* 3 */
     font-family: "Gentium Book Plus", cursive;
+    font-family: "Kurale", serif;
     color: var(--fg); /* 1 */
     font-style: normal; /* 1 */
     font-weight: 600; /* 1 */
