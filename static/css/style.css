@@ -11,6 +11,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Averia+Libre:ital,wght@0,400;0,700;1,400;1,700&family=Averia+Serif+Libre:ital,wght@0,300;0,700;1,300;1,700&family=Caveat&family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Spectral:ital,wght@0,300;0,600;1,300;1,600&display=swap&family=Noto+Sans+Symbols+2&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kurale&display=swap');
 
 /* Simple CSS Reset */
 * {
@@ -66,6 +67,7 @@ body {
     color: var(--fg); /* 2 */
     font-family: "Averia Serif Libre", "Roboto Slab", serif; /* 3 */
     font-family: "Gentium Book Plus", serif;
+    font-family: "Kurale", serif;
 
     font-style: normal; /* 3 */
     line-height: 2.2rem; /* 3 */
